@@ -49,8 +49,3 @@ Software Engineering student focused on backend development with Python. Interes
 
 ---
 
-## 🤝 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Crack277-181717?style=for-the-badge&logo=github)](https://github.com/Crack277)
-[![Telegram](https://img.shields.io/badge/Telegram-@Crack217-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Crack217)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:redun2021@gmail.com)
